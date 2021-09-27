@@ -1,0 +1,4 @@
+#Mon Sep 27 14:55:22 EDT 2021
+base.0=/Users/shen/Downloads/game_app_ui-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
